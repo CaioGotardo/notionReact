@@ -6,7 +6,8 @@ import { Header } from "./header"
 export function App(){
   return(
     <div>
-  <Header />
+    {/* componente header   */}
+    <Header />
 
     <Post 
     author="rodrigo"
